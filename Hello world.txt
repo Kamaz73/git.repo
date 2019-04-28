@@ -1,3 +1,4 @@
 println("hello world!!");
 print("hello)
 print("bonzur")
+print(hello my friend)
