@@ -1,2 +1,4 @@
-println("hello world!!;");
-print("hello;");
+println("hello world!!");
+print("hello)
+print("bonzur")
+print(hello my friend)
